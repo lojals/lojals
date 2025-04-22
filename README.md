@@ -1,5 +1,3 @@
-![lojals](https://user-images.githubusercontent.com/6756995/96677305-eec44780-1334-11eb-9971-6610814be09c.png)
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=lojals&label=Profile%20views&color=0e75b6&style=flat" alt="lojals" />
 </p>
